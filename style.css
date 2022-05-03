@@ -1,6 +1,5 @@
-/* Link attributes */
-a:link { color: #b3c565; }
-a:visited { color: #b3c565; }
+a:link { color: #1e7f13; }
+a:visited { color:#1e7f13; }
 a:hover { color: #f7a6bf; }
 a:active { color: #A11719; }
 
@@ -28,8 +27,12 @@ h3 {
   margin-top: 0px;
 }
 
-p, li, a {
+p, li {
   font-family: "Arial", sans-serif;
+}
+
+nav {
+  font-weight: 700;
 }
 
 /* Container Styles */ 
@@ -47,7 +50,7 @@ footer {
 }
 
 header, footer {
-  background: #e27c0c;
+  background: #ff7a18;
   color: white;
 }
 
