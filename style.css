@@ -15,8 +15,12 @@ h1 {
 }
 
 h2 {
+  color: green;
   font-size: 28px;
-  line-height: 1.5px
+  font-family: "Georgia", serif;
+  margin-top: 0px;
+  padding: 5% 20% 0 20%;
+  
 }
 
 h3 {
